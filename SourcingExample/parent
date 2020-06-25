@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+source sourced
+echo "The Value of '$COLOR' is $COLOR"
+
+exit 0

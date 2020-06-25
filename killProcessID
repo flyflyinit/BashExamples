@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Enter Process to kill : "
+read TOKILL
+
+kill $( ps aux | grep -v grep | grep $TOKILL | awk '{ print $2}' )
+exit 0 

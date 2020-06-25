@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "value of \$1 is $1"
+echo "value of \$2 is $2"
+echo "value of \$3 is $3"
+echo "value of \$4 is $4"
+echo "value of \$5 is $5"
+echo "value of \$6 is $6"
+echo "value of \$7 is $7"
+echo "value of \$8 is $8"
+echo "value of \$9 is $9"
+shift
+echo "value of \$10 is $9"
+shift
+echo "value of \$10 is $9"
+shift
+echo "value of \$10 is $9"
