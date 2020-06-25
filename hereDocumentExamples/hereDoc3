@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+lftp localhost <<Endd
+ls 
+get file.txt
+Endd

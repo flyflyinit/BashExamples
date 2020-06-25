@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+cat <<End
+------------------------------------
+------------------------------------------
+eny string here 
+any text here 
+something here d
+dfgsdgsd --------------
+sdfgsgsfdglisuh s
+sdfg;lisdfj g;lsdf;lgksdjf;g
+------------------------------
+
+End
